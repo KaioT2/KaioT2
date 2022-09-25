@@ -16,7 +16,7 @@
   <img align="center" alt="Kaio-Bootstrap" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Kaio-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 
-</div>
+</div><br>
 
 <div> 
   <a href="https://instagram.com/kaio2046" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
