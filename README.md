@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/KaioT2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioT2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioT2&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioT2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
