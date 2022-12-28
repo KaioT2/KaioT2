@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Kaio
 
 - 🔭 Hoje estudo front-end ;
-- 🌱 Atualmente focado em HTML e CSS.
+- 🌱 Atualmente focado em JavaScript
+- 🔧 Habilidades principais: HTML - CSS - Bootstrap
 
 <div align="center">
   <a href="https://github.com/KaioT2">
