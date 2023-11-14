@@ -4,7 +4,8 @@
 
 - 🔭 Hoje estudo front-end ;
 - 🌱 Atualmente focado em JavaScript
-- 🔧 Habilidades principais: HTML - CSS - Bootstrap - Java Swing
+- 🔧 Habilidades principais: HTML - CSS - JavaScript - Bootstrap - Java Swing
+- 💻 Tecnologias usadas no dia a dia: Java Swing
 
 <div align="center">
   <a href="https://github.com/KaioT2">
