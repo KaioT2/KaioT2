@@ -6,6 +6,7 @@
 - 🌱 Atualmente focado em JavaScript
 - 🔧 Habilidades principais: HTML - CSS - JavaScript - Bootstrap - Java Swing
 - 💻 Tecnologias usadas no dia a dia: Java Swing
+- 📚 2º ano Tec. Informática - IFMG
 
 <div align="center">
   <a href="https://github.com/KaioT2">
