@@ -4,8 +4,8 @@
 
 - 🔭 Hoje estudo front-end;
 - 🌱 Atualmente focado em JavaScript;
-- 🔧 Habilidades principais: HTML - CSS - JavaScript - Bootstrap - Java Swing;
-- 💻 Tecnologias usadas no dia a dia: HTML - CSS - JS;
+- 🔧 Habilidades principais: HTML - CSS - JavaScript - Node Js - Java Swing;
+- 💻 Tecnologias usadas no dia a dia: HTML - CSS - JS - Node Js;
 - 📚 3º ano Tec. Informática - IFMG.
 
 <div align="center">
