@@ -2,11 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Me+chamo+Kaio!;+Bem+Vindo(a)!" />
 </h1>
 
-- 🔭 Hoje estudo front-end;
-- 🌱 Atualmente focado em JavaScript;
-- 🔧 Habilidades principais: HTML - CSS - JavaScript - Node Js - Java Swing;
-- 💻 Tecnologias usadas no dia a dia: HTML - CSS - JS - Node Js;
-- 📚 3º ano Tec. Informática - IFMG.
+- 🔭 Hoje estudo back-end;
+- 🌱 Atualmente focado em Java;
+- 🔧 Habilidades principais: HTML - CSS - JavaScript - Java - Swing;
+- 📚 Tec. Informática - IFMG.
 
 <div align="center">
   <a href="https://github.com/KaioT2">
@@ -19,7 +18,7 @@
   <img align="center" alt="Kaio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaio-JavaScript" height="30" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Kaio-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<!--   <img align="center" alt="Kaio-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> -->
 </div><br>
 
 <div> 
