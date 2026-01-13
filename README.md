@@ -4,7 +4,7 @@
 
 - 🔭 Hoje estudo back-end;
 - 🌱 Atualmente focado em Java com SpringBoot;
-- 🔧 Habilidades principais: Java - SpringBoot - Swing - JavaScript - HTML - CSS;
+- 🔧 Habilidades principais: Java - SpringBoot - Swing - JavaScript - SQL - HTML - CSS;
 - 📚 Ciência da Computação 2/8 - PUC Minas | Tec. Informática - IFMG
 <!--
 <div align="center">
